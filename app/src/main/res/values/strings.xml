@@ -1,0 +1,61 @@
+<resources>
+    <!-- Common Strings -->
+    <string name="app_name">Pottery App</string>
+    <string name="profile_name">Senuthi</string>
+    <string name="profile_last_name">Amarasinghe</string>
+
+    <!-- Home Activity -->
+    <string name="banner_title">Plan your pottery date</string>
+    <string name="banner_description">Mold your happiness with therapeutic sip and paint session</string>
+    <string name="book_now_button">BOOK NOW</string>
+    <string name="our_services">Our Services</string>
+    <string name="service_pottery_workshops">Pottery Workshops</string>
+    <string name="service_group_sessions">Group &amp; private Sessions</string>
+    <string name="service_guided_sessions">Guided Pottery Sessions</string>
+    <string name="service_custom_orders">Custom Pottery Orders</string>
+    <string name="our_packages">Our Packages</string>
+    <string name="package_name">Default</string>
+    <string name="feature_guided_sessions">Guided sessions</string>
+    <string name="feature_sculpting_methods">Artistic sculpting methods to craft</string>
+    <string name="feature_custom_orders">Custom Pottery Orders</string>
+    <string name="feature_hand_molding">Hand-molding techniques</string>
+    <string name="more_details_button">MORE DETAILS</string>
+
+    <!-- Explore Activity -->
+    <string name="tab_all">All</string>
+    <string name="tab_my_pottery">My Pottery</string>
+    <string name="tab_sales">Sales</string>
+    <string name="tab_saved">Saved</string>
+    <string name="add_more">Add More</string>
+
+    <!-- Booking Activities -->
+    <string name="individual_toggle">Individual</string>
+    <string name="group_toggle">Group</string>
+    <string name="tab_book">Book</string>
+    <string name="tab_in_progress">In Progress</string>
+    <string name="tab_my_bookings">My Bookings</string>
+    <string name="tab_cancelled">Cancelled</string>
+    <string name="date_hint">Date</string>
+    <string name="time_hint">Time</string>
+    <string name="select_package">Select Your Package</string>
+    <string name="book_now">BOOK NOW</string>
+
+    <!-- Form Labels -->
+    <string name="label_date">Date</string>
+    <string name="label_time">Time</string>
+    <string name="label_select_package">Select Your Package</string>
+
+    <!-- Error Messages -->
+    <string name="error_select_date">Please select a date</string>
+    <string name="error_select_time">Please select a time</string>
+    <string name="error_select_package">Please select a package</string>
+
+    <!-- Package Names -->
+    <string-array name="package_names">
+        <item>Beginner Package</item>
+        <item>Intermediate Package</item>
+        <item>Advanced Package</item>
+        <item>Group Package</item>
+        <item>Private Session</item>
+    </string-array>
+</resources>
